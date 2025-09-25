@@ -15,23 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 ¡Hola! Soy David (aka drowsy)
+#  ִֶָ☾.
 
 🎓 Estudiante de SMR (1º y 2º) y DAW (actualmente en 2º)  
 💻 Me apasiona la informática y el desarrollo de páginas web  
-🧠 Aprendiz autodidacta, curioso y metódico  
-🔍 Explorando bases de datos, lógica SQL y sistemas Linux  
-🎧 También me interesa la narrativa musical y el análisis de personajes
 
-## 🧰 Tecnologías y herramientas
+## ⚙️
 - HTML, CSS, JavaScript
 - MySQL, XAMPP, VirtualBox
 - Git, GitHub
-- Ubuntu, Bash
+- Ubuntu & Windows Desktop/Server
 
-## 📚 Actualmente aprendiendo
+## 📚
 - Procedimientos y funciones en SQL (Sakila como base de pruebas)
-- Optimización de rutinas y documentación técnica
 
 ## 📌 Objetivos
 - Mejorar mis proyectos web y documentarlos con claridad  
@@ -40,5 +36,5 @@ Here are some ideas to get you started:
 ---
 
 > “La lógica detrás del código importa tanto como el resultado.”  
-> — drowsy
+> — david a.k.a. <i>dr๏wsy</i>
 
