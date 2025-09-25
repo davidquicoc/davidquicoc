@@ -70,3 +70,28 @@ $ echo "Estudiante de DAW | Explorador de Sakila"
 
 $ git clone "https://github.com/davidquicoc"
 Cloning into 'davidquicoc'...
+
+
+## Bash
+```bash
+# Perfil en terminal
+whoami
+# output: luisjosesanchez
+
+echo "ME: Luis José Sánchez 🙋‍♂️"
+echo "LANGUAGES: Java, Typescript, Javascript, Python, PHP, SQL, HTML, CSS"
+echo "FRAMEWORKS: Angular, Ionic"
+echo "CONTACT: https://www.linkedin.com/in/luisjosesanchez/"
+```
+
+
+## CMD
+```cmd
+C:\> echo "ME: Luis José Sánchez 🙋‍♂️"
+ME: Luis José Sánchez 🙋‍♂️
+
+C:\> echo "LANGUAGES: Java, Typescript, Javascript, Python, PHP, SQL, HTML, CSS"
+C:\> echo "FRAMEWORKS: Angular, Ionic"
+C:\> echo "CONTACT: https://www.linkedin.com/in/luisjosesanchez/"
+```
+````
