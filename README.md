@@ -61,3 +61,12 @@ public class AboutMe {
 }
 
 ```
+
+# Perfil de David aka dr๏wsy
+$ whoami
+drowsy
+
+$ echo "Estudiante de DAW | Explorador de Sakila"
+
+$ git clone "https://github.com/davidquicoc"
+Cloning into 'davidquicoc'...
