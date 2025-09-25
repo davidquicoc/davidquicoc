@@ -43,3 +43,7 @@ Hola, soy David
 
 C:\Users\drowsy> git clone https://github.com/davidquicoc
 Cloning into 'davidquicoc'...
+
+'''bash
+echo "hola"
+'''
