@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 > “La lógica detrás del código importa tanto como el resultado.”  
 > — david a.k.a. <i>dr๏wsy</i>
 
-$ whoami
-drowsy
-$ echo "Estudiante de DAW | Apasionado por el desarrollo web"
-$ git clone https://github.com/davidquicoc
-$ cd davidquicoc && code .
+C:\Users\drowsy> echo Hola, soy David
+Hola, soy David
+
+C:\Users\drowsy> git clone https://github.com/davidquicoc
+Cloning into 'davidquicoc'...
