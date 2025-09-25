@@ -62,6 +62,24 @@ public class AboutMe {
 
 ```
 
+## HTML
+```html
+<!-- Perfil -->
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <title>Perfil</title>
+  </head>
+  <body>
+    <h1>Hola, soy Luis José Sánchez 🙋‍♂️</h1>
+    <p>Lenguajes: "Java", "Typescript", "Javascript", "Python", "PHP", "SQL", "HTML", "CSS"</p>
+    <p>Frameworks: "Angular", "Ionic"</p>
+    <a href="https://www.linkedin.com/in/luisjosesanchez/">LinkedIn</a>
+  </body>
+</html>
+```
+
 # Perfil de David aka dr๏wsy
 $ whoami
 drowsy
